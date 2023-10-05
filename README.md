@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sillyfemboi
 - 👀 I’m interested in coding sleep reading
-- 🌱 I’m currently learning C++ and learning more java 
+- 🌱 I’m currently learning C++ and learning more java + kotlin
 - 💞️ I’m looking to collaborate on Riceclient a minecraft performace boosting client with many features 
 - 📫 How to reach me mineyminer24@gmail.com
 
